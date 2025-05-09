@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "WorkingTileMap.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TileMap1.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "TileMapTest1.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -122.72727272727272,
+                "y": 139.63636363636363
+            }
+        },
+        "WorkingTileMap.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        }
+    },
+    "last.imagePath": "C:/Users/48466484/Documents/comp1151prac-tilemapgame-KaiZeroSix/Assets/Tiled/TileMapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "WorkingTileMap.tsx",
+        "TileMapTest1.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TileMapTest1.tmx",
+        "WorkingTileMap.tsx",
+        "tilemap.tsx",
+        "TileMap1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
